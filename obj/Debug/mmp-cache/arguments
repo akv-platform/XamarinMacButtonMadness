@@ -1,0 +1,23 @@
+# Version: 5.14.0.110 (d16-2): a8bcecce)
+# [first argument, ignore] # /Library/Frameworks/Xamarin.Mac.framework/Versions/5.14.0.110/lib/mmp/mmp.exe
+/Library/Frameworks/Xamarin.Mac.framework/Versions/5.14.0.110/lib/mmp/mmp.exe \
+	/verbose \
+	' /debug' \
+	/output:/Users/Ivan/Documents/repos/ButtonMadness/bin/Debug/ \
+	/name:ButtonMadness \
+	' /profile:Xamarin.Mac,Version=v2.0,Profile=Mobile' \
+	' /arch:x86_64' \
+	' --http-message-handler=NSUrlSessionHandler' \
+	' /minos=10.9' \
+	' /nolink' \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/mscorlib.dll \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/System.Core.dll \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/System.dll \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/Facades/System.Drawing.Common.dll \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/System.Xml.dll \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/System.Xml.Linq.dll \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/Xamarin.Mac.dll \
+	/root-assembly:/Users/Ivan/Documents/repos/ButtonMadness/bin/Debug/ButtonMadness.exe \
+	/sdkroot:/Users/Shared/Xcode/11.0/Xcode-beta.app/Contents/Developer \
+	--cache:/Users/Ivan/Documents/repos/ButtonMadness/obj/Debug/mmp-cache \
+	@/Users/Ivan/Documents/repos/ButtonMadness/obj/Debug/response-file.rsp \

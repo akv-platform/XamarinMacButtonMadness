@@ -1,0 +1,14 @@
+/Users/Ivan/Documents/repos/ButtonMadness/bin/Debug/moof.png
+/Users/Ivan/Documents/repos/ButtonMadness/bin/Debug/moof2.png
+/Users/Ivan/Documents/repos/ButtonMadness/bin/Debug/ButtonMadness.exe
+/Users/Ivan/Documents/repos/ButtonMadness/bin/Debug/ButtonMadness.pdb
+/Users/Ivan/Documents/repos/ButtonMadness/obj/Debug/actool/_PartialAppManifest.items
+/Users/Ivan/Documents/repos/ButtonMadness/obj/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/Ivan/Documents/repos/ButtonMadness/obj/Debug/ibtool-manifests/MainMenu.nib
+/Users/Ivan/Documents/repos/ButtonMadness/obj/Debug/ibtool-manifests/TestWindow.nib
+/Users/Ivan/Documents/repos/ButtonMadness/obj/Debug/ibtool/MainMenu.nib
+/Users/Ivan/Documents/repos/ButtonMadness/obj/Debug/ibtool/TestWindow.nib
+/Users/Ivan/Documents/repos/ButtonMadness/obj/Debug/ButtonMadness.csprojAssemblyReference.cache
+/Users/Ivan/Documents/repos/ButtonMadness/obj/Debug/ButtonMadness.csproj.CoreCompileInputs.cache
+/Users/Ivan/Documents/repos/ButtonMadness/obj/Debug/ButtonMadness.exe
+/Users/Ivan/Documents/repos/ButtonMadness/obj/Debug/ButtonMadness.pdb
